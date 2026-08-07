@@ -6,6 +6,10 @@ More Public Projects and Website On The Way!
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qgn7qrsg23vmf3m6athv5hf2n&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=qgn7qrsg23vmf3m6athv5hf2n&redirect=true)
 
+### Support Me
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X5I024MAIN)
+
 ### Languages
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
